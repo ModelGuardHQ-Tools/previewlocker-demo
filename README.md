@@ -9,6 +9,13 @@ PreviewLocker can:
 - post a security report directly on pull requests
 - optionally fail the workflow when warnings are found
 
+## Demo preview page
+
+This repository can also serve a static GitHub Pages demo preview page from
+`index.html`. It is designed as a simple PreviewLocker demonstration target and
+includes `assets/app.js` plus an intentionally exposed `assets/app.js.map` file
+so GitHub Pages can host a realistic static preview for scanning and reporting.
+
 ## Demo workflow
 
 ```yaml

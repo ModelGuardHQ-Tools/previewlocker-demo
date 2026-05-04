@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "app.js",
+  "sources": [
+    "app-source.js"
+  ],
+  "sourcesContent": [
+    "document.addEventListener(\"DOMContentLoaded\", () => {\\n  document.documentElement.setAttribute(\"data-previewlocker-demo\", \"ready\");\\n  console.log(\"PreviewLocker demo preview page loaded.\");\\n});\\n"
+  ],
+  "names": [],
+  "mappings": "AAAA,SAAS,CAAC,gBAAgB,EAAE,MAAM;IAC9B,QAAQ,CAAC,eAAe,CAAC,YAAY,EAAE,OAAO,CAAC;IAC/C,OAAO,CAAC,GAAG,CAAC,uCAAuC,CAAC;AACtD,CAAC,CAAC"
+}
